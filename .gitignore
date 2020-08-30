@@ -16,3 +16,31 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+
+
+# All projects created here.
+
+## 01-monty-hall
+
+./01-monty-hall/.DS_Store
+./01-monty-hall/node_modules
+./01-monty-hall/dist
+# local env files
+./01-monty-hall/.env.local
+./01-monty-hall/.env.*.local
+# Log files
+./01-monty-hall/npm-debug.log*
+./01-monty-hall/yarn-debug.log*
+./01-monty-hall/yarn-error.log*
+./01-monty-hall/pnpm-debug.log*
+# Editor directories and files
+./01-monty-hall/.idea
+./01-monty-hall/*.vscode
+./01-monty-hall/*.suo
+./01-monty-hall/*.ntvs*
+./01-monty-hall/*.njsproj
+./01-monty-hall/*.sln
+./01-monty-hall/*.sw?
+
+## 02
+
