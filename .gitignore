@@ -20,6 +20,11 @@ bin-release/
 
 # All projects created here.
 
+## 00-basics-vue
+
+00-basics-vue/node_modules/
+
+
 ## 01-monty-hall
 
 ./01-monty-hall/.DS_Store
